@@ -16,10 +16,10 @@ function Header() {
             <Nav.Link href="#pricing"></Nav.Link>
           </Nav>
           <Nav className='nav-links'>
-            <Nav.Link style={{fontSize:'16px'}} className='nav-link' href="#About">About</Nav.Link>
-            <Nav.Link style={{fontSize:'16px'}} className='nav-link' href="#Experience">Experience</Nav.Link>
-            <Nav.Link style={{fontSize:'16px'}} className='nav-link' href="#Projects">Projects</Nav.Link>
-            <Nav.Link style={{fontSize:'16px'}} className='nav-link' eventKey={2} href="#Contanct">
+            <Nav.Link style={{fontSize:'16px'}} className='nav-link' href="#about">About</Nav.Link>
+            <Nav.Link style={{fontSize:'16px'}} className='nav-link' href="#experience">Experience</Nav.Link>
+            <Nav.Link style={{fontSize:'16px'}} className='nav-link' href="#projects">Projects</Nav.Link>
+            <Nav.Link style={{fontSize:'16px'}} className='nav-link' eventKey={2} href="#contact-sec">
             Contanct
             </Nav.Link>
           </Nav>
